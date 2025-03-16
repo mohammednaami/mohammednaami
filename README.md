@@ -1,14 +1,11 @@
-## Hi there 👋
-
 <h2 align="left">Hi there, I'm Mohammed Naami 👋</h2>
-
-###
-
 <p align="left">Full-stack Developer and Online Marketing Specialist, based in Nuremberg, Germany 🇩🇪</p>
 
 ###
 
 <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=mohammednaami&color=blue)
   <a href="https://www.linkedin.com/in/mohammed-naami/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -22,8 +19,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 <h4 align="left">Skills</h4>
 
