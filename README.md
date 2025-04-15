@@ -2,11 +2,7 @@
 <p align="left">Full-stack Developer and Online Marketing Specialist, based in Nuremberg, Germany 🇩🇪</p>
 
 ###
-
-
-
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/mohammed-naami/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -23,9 +19,6 @@
 </div>
 
 <h4 align="left">Skills</h4>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +53,3 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-
-
-###
